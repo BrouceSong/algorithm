@@ -33,5 +33,7 @@
 * 0 <= A.length <= 40000
 * 0 <= A[i] < 40000
 * [具体代码](https://github.com/BrouceSong/algorithm/blob/master/minIncrementforunique.go)
-## Authers
+## 团队成员
 * [songwenwen@outlook.com](https://github.com/BrouceSong)
+## 开源协议
+本项目基于 [MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)协议，请自由地享受和参与开源。
